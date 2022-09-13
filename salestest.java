@@ -37,9 +37,9 @@ public class salestest{
         String nameper2 = name2.getText();
         System.out.println(nameper2);
         if(nameper1.equals(nameper2)) {
-            System.out.println("Expected output is met");
+            System.out.println("Expected output is acheived");
         } else {
-            System.out.println("Expected output is not met");
+            System.out.println("Expected output is not Acheived");
         }
 driver.quit();
     }
